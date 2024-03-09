@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name":" SET SIMPLE 1",
+        "price": 30,
+        "category": "simple",
+        "image": "img/set-Simple1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":" SET SIMPLE 2",
+        "price": 30,
+        "category": "simple",
+        "image": "img/set-Simple2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" SET SIMPLE 3",
+        "price": 30,
+        "category": "simple",
+        "image": "img/set-Simple3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" SET SIMPLE 4",
+        "price": 30,
+        "category": "simple",
+        "image": "img/set-Simple4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" SET HK",
+        "price": 100,
+        "category": "anime",
+        "image": "img/set-Hk.jpg"
+    },
+    {
+        "id": 6,
+        "name":" SET KNJ",
+        "price": 100,
+        "category": "anime",
+        "image": "img/set-Knj.jpg"
+    },
+    {
+        "id": 7,
+        "name":" SET CUSTOM",
+        "price": 150,
+        "category": "custom",
+        "image": "img/set-Ejemplos.jpg"
+    },
+    {
+        "id": 8,
+        "name":" SET CUSTOM ANIME",
+        "price": 200,
+        "category": "custom",
+        "image": "img/set-Nana.jpg"
+    }
+
+]
